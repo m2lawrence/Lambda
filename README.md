@@ -1,5 +1,4 @@
-# Lambda
-
+# LINQ query with Lambda Expressions
 I built a Student class in my project, and then queried it using a LINQ query with Lambda Expressions.
 
 1. Write a LINQ query using Lambda Expressions and use IEnumerable and store it in "QueryResult": 
