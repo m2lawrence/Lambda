@@ -9,8 +9,7 @@ IEnumerable<Student> QueryResult = Student.GetAllStudents().Where(student => stu
 
 3. Invoke the data bind method to the GridView: GridView1.DataBind()
 
-
-
+-------------------------------
 # LINQ-Standard-Query-Operators
 
 Select, From, Where, OrderBy, Join, GroupBy.
